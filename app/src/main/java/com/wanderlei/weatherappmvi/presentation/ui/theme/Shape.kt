@@ -1,4 +1,4 @@
-package com.wanderlei.weatherappmvi.ui.theme
+package com.wanderlei.weatherappmvi.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.ui.unit.dp

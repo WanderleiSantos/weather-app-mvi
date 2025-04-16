@@ -1,4 +1,4 @@
-package com.wanderlei.weatherappmvi.ui.theme
+package com.wanderlei.weatherappmvi.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
